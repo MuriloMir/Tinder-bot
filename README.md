@@ -1,5 +1,5 @@
 # Tinder-bot
-A software which hits "Like" automatically when the Tinder website is open. Written totally in D with the arsd library.
+A software which hits "Like" automatically when the Tinder website is open. Written totally in D.
 
 Download this source code along with the arsd library which can be found here: https://github.com/adamdruppe/arsd.
 
