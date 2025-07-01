@@ -4,6 +4,7 @@ import arsd.simpledisplay : Key, MouseButton, SyntheticInput;
 import core.thread : Thread;
 import core.time : seconds;
 
+// start the software
 void main()
 {
     // create the sender of inputs, to later send the clicks
