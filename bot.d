@@ -1,5 +1,6 @@
 // This software is a bot to hit the like button on the Tinder website.
 
+// import all the tools we need
 import arsd.simpledisplay : Key, MouseButton, SyntheticInput;
 import core.thread : Thread;
 import core.time : seconds;
